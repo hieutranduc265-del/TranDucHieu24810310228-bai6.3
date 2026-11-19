@@ -10,11 +10,19 @@
 ## MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
 
-1. **Màn hình Chính / Tổng quan hệ thống:**![Màn hình chính](images/01_main_screen.png)[cite: 9]
-2. **Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):**![Màn hình CRUD](images/02_crud_screen.png)[cite: 9]
-3. **Màn hình Thực thi Nghiệp vụ chính (Lập Hóa đơn / Bán hàng / Chấm công / Đặt phòng):**![Màn hình Nghiệp vụ](images/03_transaction_screen.png)[cite: 9]
-4. **Màn hình Báo cáo - Thống kê:**![Màn hình Thống kê](images/04_report_screen.png)[cite: 9]
-5. **Minh họa An toàn Dữ liệu (Phòng chống SQL Injection / Báo lỗi Transaction Rollback):**![Minh họa Xử lý lỗi](images/05_error_handling.png)[cite: 9]
+1. **Màn hình Chính / Tổng quan hệ thống:**!
+<img width="2252" height="1422" alt="image" src="https://github.com/user-attachments/assets/aba7617c-3cae-4aab-9997-ce1139e784ca" />
 
----
+2. **Quản lý Dự án & Task:**
+<img width="2879" height="1525" alt="搜狗高速浏览器截图20261119093400" src="https://github.com/user-attachments/assets/517479b9-21b6-45e5-832a-8ba934735175" />
+
+3. **Cập nhật Tiến độ & Chuyển Trạng thái Task::**
+<img width="2879" height="1529" alt="搜狗高速浏览器截图20261119093806" src="https://github.com/user-attachments/assets/e0f4b4d9-5090-441e-b946-8e1f388009d7" />
+
+
+4. **Phân công  :**
+<img width="2857" height="1516" alt="搜狗高速浏览器截图20261119094245" src="https://github.com/user-attachments/assets/a895cd12-c544-4d2c-bfcb-9789ed625fa2" />
+
+5. **Cảnh báo Trễ hạn (Overdue) & Báo cáo::**
+<img width="2879" height="1524" alt="搜狗高速浏览器截图20261119094301" src="https://github.com/user-attachments/assets/983ff5f0-9dae-4569-b7b0-198bc53a56e2" />
 
